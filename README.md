@@ -1,5 +1,5 @@
 # OnlineShop
-This project is based on creating a demo on online shopping website using HTML and CSS. 
+This project is based on creating a responsive online shopping website using HTML and CSS. 
 
 ## Pages
 ### 1. HOME
