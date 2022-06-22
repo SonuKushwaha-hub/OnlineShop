@@ -20,4 +20,8 @@ this contains added products with image of each and price tag, sub-total price a
 ### 5 ACCOUNT
 This page provides the feature to Sign-Up for new customers and Login feature for existing customers.
 
-Well maintained bottom portion on each page conatining useful informations.
+Well maintained Footer on each page conatining useful informations.
+
+## Hosting
+* Hosted on Github https://sonukushwaha-hub.github.io/OnlineShop/ 
+* Learn more about hosting on Github https://pages.github.com/
